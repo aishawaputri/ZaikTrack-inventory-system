@@ -1,4 +1,8 @@
 ## Tentang Zaiko Track
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/92fb98dc-2c16-40cc-9798-3ad9f5d32022" width="700"/>
+</p>
+
 
 Zaiko Track adalah sebuah sistem manajemen informasi yang digunakan untuk mengelola data inventaris barang di Jurusan SIJA. Sistem ini memudahkan bagi para teknisi SIJA dalam melacak dan mengelola inventaris barang, termasuk barang-barang yang tersedia, perawatan yang diperlukan, dan catatan pemeliharaan. Zaiko Track dapat diakses melalui browser baik dari PC, Laptop, maupun perangkat mobile (smartphone).
 
