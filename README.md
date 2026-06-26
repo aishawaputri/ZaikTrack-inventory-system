@@ -1,6 +1,6 @@
 ## Tentang Zaiko Track
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/92fb98dc-2c16-40cc-9798-3ad9f5d32022" width="700"/>
+    <img src="https://github.com/user-attachments/assets/c7090994-6a63-434c-ad69-1615e20b0471" width="700"/>
 </p>
 
 
